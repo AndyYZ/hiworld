@@ -121,10 +121,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="841" y="20" key="CommitChangelistDialog2" timestamp="1588648387188">
+    <state x="841" y="20" key="CommitChangelistDialog2" timestamp="1588648597548">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
-    <state x="841" y="20" key="CommitChangelistDialog2/0.0.1920.982@0.0.1920.982" timestamp="1588648387188" />
+    <state x="841" y="20" key="CommitChangelistDialog2/0.0.1920.982@0.0.1920.982" timestamp="1588648597548" />
     <state x="346" y="145" key="DiffContextDialog" timestamp="1588648468751">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
@@ -149,9 +149,9 @@
       <screen x="0" y="0" width="1920" height="982" />
     </state>
     <state width="1326" height="213" key="GridCell.Tab.0.right/0.0.1920.982@0.0.1920.982" timestamp="1588648565462" />
-    <state x="726" y="152" key="Vcs.Push.Dialog.v2" timestamp="1588648510050">
+    <state x="726" y="152" key="Vcs.Push.Dialog.v2" timestamp="1588648621830">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
-    <state x="726" y="152" key="Vcs.Push.Dialog.v2/0.0.1920.982@0.0.1920.982" timestamp="1588648510050" />
+    <state x="726" y="152" key="Vcs.Push.Dialog.v2/0.0.1920.982@0.0.1920.982" timestamp="1588648621830" />
   </component>
 </project>
