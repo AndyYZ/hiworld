@@ -58,7 +58,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Mercurial" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="HiWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -99,7 +99,8 @@
       <workItem from="1588647319093" duration="1568000" />
       <workItem from="1588870014379" duration="1756000" />
       <workItem from="1588871780766" duration="45000" />
-      <workItem from="1588876105310" duration="1461000" />
+      <workItem from="1588876105310" duration="1609000" />
+      <workItem from="1588877793527" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1588647661564</created>
@@ -297,7 +298,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588877461163</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="test">
+      <created>1588877577630</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588877577630</updated>
+    </task>
+    <task id="LOCAL-00030" summary="test">
+      <created>1588877604087</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588877604087</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,10 +333,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="597" y="21" width="951" height="961" key="CommitChangelistDialog2" timestamp="1588877577395">
+    <state x="597" y="21" width="951" height="961" key="CommitChangelistDialog2" timestamp="1588877603862">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
-    <state x="597" y="21" width="951" height="961" key="CommitChangelistDialog2/0.0.1920.982@0.0.1920.982" timestamp="1588877577395" />
+    <state x="597" y="21" width="951" height="961" key="CommitChangelistDialog2/0.0.1920.982@0.0.1920.982" timestamp="1588877603862" />
     <state x="346" y="145" width="1536" height="785" key="DiffContextDialog" timestamp="1588875010231">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
@@ -358,14 +373,14 @@
       <screen x="0" y="0" width="1920" height="982" />
     </state>
     <state x="727" y="142" key="RollbackChangesDialog/0.0.1920.982@0.0.1920.982" timestamp="1588875077988" />
-    <state x="316" y="60" key="SettingsEditor" timestamp="1588877134676">
+    <state x="316" y="60" key="SettingsEditor" timestamp="1588877824590">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
-    <state x="316" y="60" key="SettingsEditor/0.0.1920.982@0.0.1920.982" timestamp="1588877134676" />
-    <state x="639" y="135" key="Vcs.Push.Dialog.v2" timestamp="1588877485649">
+    <state x="316" y="60" key="SettingsEditor/0.0.1920.982@0.0.1920.982" timestamp="1588877824590" />
+    <state x="639" y="135" key="Vcs.Push.Dialog.v2" timestamp="1588877617715">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
-    <state x="639" y="135" key="Vcs.Push.Dialog.v2/0.0.1920.982@0.0.1920.982" timestamp="1588877485649" />
+    <state x="639" y="135" key="Vcs.Push.Dialog.v2/0.0.1920.982@0.0.1920.982" timestamp="1588877617715" />
     <state x="846" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588876488279">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
