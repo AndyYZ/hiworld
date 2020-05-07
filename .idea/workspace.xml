@@ -98,7 +98,12 @@
       <workItem from="1588870014379" duration="1756000" />
       <workItem from="1588871780766" duration="45000" />
       <workItem from="1588876105310" duration="1609000" />
+<<<<<<< Updated upstream
       <workItem from="1588877793527" duration="5809000" />
+=======
+      <workItem from="1588877793527" duration="2909000" />
+      <workItem from="1588884075606" duration="246000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1588647661564</created>
@@ -412,17 +417,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="hahaha" />
+    <option name="LAST_COMMIT_MESSAGE" value="hahaha" />
   </component>
   <component name="WindowStateProjectService">
     <state x="761" y="13" width="951" height="961" key="CommitChangelistDialog2" timestamp="1588883950617">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
+<<<<<<< Updated upstream
     <state x="761" y="13" width="951" height="961" key="CommitChangelistDialog2/0.0.1920.982@0.0.1920.982" timestamp="1588883950617" />
     <state x="346" y="145" width="1536" height="785" key="DiffContextDialog" timestamp="1588875010231">
+=======
+    <state x="597" y="21" width="951" height="961" key="CommitChangelistDialog2/0.0.1920.982@0.0.1920.982" timestamp="1588880695131" />
+    <state x="133" y="170" width="1536" height="785" key="DiffContextDialog" timestamp="1588884321044">
+>>>>>>> Stashed changes
       <screen x="0" y="0" width="1920" height="982" />
     </state>
-    <state x="346" y="145" width="1536" height="785" key="DiffContextDialog/0.0.1920.982@0.0.1920.982" timestamp="1588875010231" />
+    <state x="133" y="170" width="1536" height="785" key="DiffContextDialog/0.0.1920.982@0.0.1920.982" timestamp="1588884321044" />
     <state x="1312" y="279" key="FileChooserDialogImpl" timestamp="1588875118411">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
@@ -462,7 +473,15 @@
     <state x="532" y="118" key="Vcs.Push.Dialog.v2" timestamp="1588882178983">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
+<<<<<<< Updated upstream
     <state x="532" y="118" key="Vcs.Push.Dialog.v2/0.0.1920.982@0.0.1920.982" timestamp="1588882178983" />
+=======
+    <state x="639" y="135" key="Vcs.Push.Dialog.v2/0.0.1920.982@0.0.1920.982" timestamp="1588880566803" />
+    <state x="591" y="185" key="VcsDiffUtil.ChangesDialog" timestamp="1588884310517">
+      <screen x="0" y="0" width="1920" height="982" />
+    </state>
+    <state x="591" y="185" key="VcsDiffUtil.ChangesDialog/0.0.1920.982@0.0.1920.982" timestamp="1588884310517" />
+>>>>>>> Stashed changes
     <state x="846" y="395" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588880588976">
       <screen x="0" y="0" width="1920" height="982" />
     </state>
